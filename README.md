@@ -205,3 +205,9 @@ Sơ đồ trực quan hóa quy trình vận hành hiện tại.
 | **Code Python** | `.py` | Branch Cá nhân (`<ten>`) | Từng thành viên | **Điểm CÁ NHÂN** (chấm trên branch riêng) |
 | **Báo cáo / Document** | `.md`, `.png` | Branch `main` (Sau khi chọn lọc & merge) | Cả nhóm / Trưởng nhóm đại diện merge | **Điểm NHÓM** (chấm trên branch `main`) |
 | **Form Nộp Bài** | Form trực tuyến | Link Google Form / LMS | **Chỉ DUY NHẤT Trưởng nhóm điền** | Ghi nhận/tổng hợp bài nộp của nhóm |
+
+---
+
+## Bài làm Xanh SM đã chuẩn bị trong workspace
+
+Xem [HUONG-DAN-CHAY.md](HUONG-DAN-CHAY.md) để chạy prototype, phân biệt kiểm thử offline/live và hoàn tất các thông tin còn thiếu trước khi nộp. Các deliverable nằm tại `01-problem-scan.md`, `02-deep-dive-report.md`, `03-ai-log.md`, `04-workflow-diagram.png` và `starter-code/prompt_prototype.py`. Chưa có kết quả Gemini thật vì chưa cấu hình khóa API.

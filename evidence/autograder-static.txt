@@ -1,0 +1,21 @@
+[SETUP] Bat dau cham diem Group Assignment tren GitHub Classroom
+============================================================
+[PASS] File 01-problem-scan.md exists at .\01-problem-scan.md
+[SETUP] Bat dau cham diem Group Assignment tren GitHub Classroom
+============================================================
+[PASS] File 02-deep-dive-report.md exists at .\02-deep-dive-report.md
+[SETUP] Bat dau cham diem Group Assignment tren GitHub Classroom
+============================================================
+[PASS] File 03-ai-log.md exists at .\03-ai-log.md
+[SETUP] Bat dau cham diem Group Assignment tren GitHub Classroom
+============================================================
+[PASS] File 04-workflow-diagram (.png/.jpg/.pdf) exists at .\04-workflow-diagram.png
+[SETUP] Bat dau cham diem Group Assignment tren GitHub Classroom
+============================================================
+[PASS] SYSTEM_PROMPT is valid. Matched: ['draft_only', '5%', 'dispatch_mobile_charger']
+[SETUP] Bat dau cham diem Group Assignment tren GitHub Classroom
+============================================================
+[PASS] evaluate_prompt uses Gemini SDK
+[SETUP] Bat dau cham diem Group Assignment tren GitHub Classroom
+============================================================
+[PASS] ADVERSARIAL_TESTS declared correctly with 2 or more test cases

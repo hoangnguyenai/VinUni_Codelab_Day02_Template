@@ -1,0 +1,2 @@
+Mode: live_gemini; model: gemini-2.5-flash
+BLOCKED: thiếu GEMINI_API_KEY/GOOGLE_API_KEY. --offline chỉ demo hợp đồng, không chứng minh LLM.
